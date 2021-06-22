@@ -3,5 +3,7 @@ public class tc002 {
 
     //work2 completed
 
+    //added part3
+
     //test case finish
 }
